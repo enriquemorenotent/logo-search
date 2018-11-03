@@ -104,6 +104,16 @@ class App extends Component {
 					</div>
 				</div>
 			</main>
+			<footer class="footer">
+				<div class="content has-text-centered">
+					<p>
+						Logo search powered by{" "}
+						<strong>
+							<a href="https://clearbit.com/logo">Clearbit</a>
+						</strong>
+					</p>
+				</div>
+			</footer>
 		</div>
 	);
 }
