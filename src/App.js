@@ -104,8 +104,8 @@ class App extends Component {
 					</div>
 				</div>
 			</main>
-			<footer class="footer">
-				<div class="content has-text-centered">
+			<footer className="footer">
+				<div className="content has-text-centered">
 					<p>
 						Logo search powered by{" "}
 						<strong>
